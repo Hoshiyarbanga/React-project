@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+width: 100%;
+height: 100vh;
+background-color: #7cb1e6;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.box{
+width: 30%;
+height: auto;
+background-color: #fff;
+}
+.form-box{
+padding: 40px;
+}
+.form-box input{
+width: 100%;
+padding: 10px;
+margin: 10px 0px;
+}
+.form-box p{
+text-align: center;
+}
+.btn{
+color: #fff;
+background-color: blue;
+border: none;
+}
